@@ -1,5 +1,5 @@
 # LWC
-Salesforce Lightning Web Components to be used with Salesforce OmniStudio
+Salesforce Lightning Web Components to be used with Salesforce OmniStudio or standalone
 
 
 ## Support, security, contributions and code of conduct

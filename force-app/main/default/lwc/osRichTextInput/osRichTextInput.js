@@ -11,9 +11,9 @@
  * Instructions:
  * 
  * - Drag a Custom Lightning Web Component input element in a step
- * - Give the field a meaningful nam
+ * - Give the field a meaningful name (e.g "CustomLWCComments")
  * - Choose "osRichTextInput" for the Lightning Web Component Name
- * - In the "CUSTOM LIGHTNING WEB COMPONENT PROPERTIES", add a property with Name field-name and Value the name of the field
+ * - In the "CUSTOM LIGHTNING WEB COMPONENT PROPERTIES", add a property with Name field-name and Value the name of the field (e.g "CustomLWCComments" without quotes)
  * 
  * License
  * -------
